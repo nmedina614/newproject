@@ -1,0 +1,12 @@
+{
+  "name": "nmedinag/hello",
+  "authors": [
+    {
+      "name": "Nolan Medina",
+      "email": "njmedina614@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
